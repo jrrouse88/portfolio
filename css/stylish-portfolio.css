@@ -219,19 +219,23 @@ hr.large {
   background-color: #6381ED;
 }
 
-#contact h2 {
-  display: inline;
-}
-
 #contact a {
   text-decoration: none;
-  color: lightgrey;
 }
 
 #contact a:hover {
   color: salmon;
+  text-decoration: underline;
 }
 
+strong {
+  font-size: 1.5em;
+}
+
+.download {
+  font-size: 1.8em;
+  color: lightgrey;
+}
 /* Footer */
 
 footer {
