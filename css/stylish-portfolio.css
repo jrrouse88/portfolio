@@ -4,6 +4,14 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/blob/master/LICENSE)
  */
 
+
+
+/* Fonts
+  font-family: 'Righteous', cursive;
+  font-family: 'Lora', serif;
+  font-family: 'Quicksand', sans-serif;
+*/
+
 /* Global Styles */
 
 html, body {
@@ -27,6 +35,14 @@ body {
   margin: 0;
   padding: 0;
 }
+
+p {
+  font-family: 'Lora', serif;
+}
+
+/* a, h1, h2, h3, h4, h5 {
+  font-family: 'Quicksand', sans-serif;
+} */
 
 
 /* Custom Button Styles */
@@ -116,6 +132,7 @@ hr.large {
 
 #mainNav .navbar-brand {
   font-size: 1.75em;
+  font-family: 'Righteous', cursive;
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
   transition: all 0.3s;
