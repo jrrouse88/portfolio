@@ -210,6 +210,10 @@ hr.large {
   margin-top: 5px;
 }
 
+.card-footer {
+  background-color: white;
+}
+
 /* Contact */
 #contact {
   background-color: #6381ED;
